@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :MARINO SARISHA T
-Roll no :22223240084
-Date of experiment :29.08.2025
+#### Name :MARINO SARISHA T
+#### Roll no :22223240084
+#### Date of experiment :29.08.2025
 
 
 
@@ -153,7 +153,8 @@ HLT
 ```
 
 ## Output 
-<img width="1032" height="689" alt="Screenshot 2025-08-29 153302" src="https://github.com/user-attachments/assets/161ed181-73df-4e4d-81e3-71832a741437" />
+<img width="1656" height="852" alt="image" src="https://github.com/user-attachments/assets/fadb24be-a011-4c29-8c81-b75e69bc251f" />
+
 
 ## OR
 ```
@@ -163,6 +164,8 @@ OR AX,BX
 MOV [3005H],AX
 HLT
 ```
+
+## Output
 <img width="1599" height="849" alt="Screenshot 2025-08-29 153726" src="https://github.com/user-attachments/assets/fa312e83-2266-46ff-bff7-9a8e8943a015" />
 
 ## NAND
@@ -175,7 +178,8 @@ MOV [3005H],AX
 HLT
 ```
 ## Output
-<img width="1599" height="849" alt="Screenshot 2025-08-29 153726" src="https://github.com/user-attachments/assets/aa449e4d-3caf-45b0-bfac-046bd5e1f0ac" />
+<img width="1709" height="847" alt="image" src="https://github.com/user-attachments/assets/8be01d5d-cc47-4e95-98f3-92e8eb577981" />
+
 
 
 ## NOR
