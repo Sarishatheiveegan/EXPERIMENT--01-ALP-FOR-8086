@@ -1,11 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-#### Name :MARINO SARISHA T
+### Name :MARINO SARISHA T
 #### Roll no :22223240084
-#### Date of experiment :29.08.2025
-
-
-
-
+### Date of experiment :29.08.2025
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
